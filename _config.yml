@@ -2,3 +2,11 @@ include: .htaccess
 timezone: America/New_York
 url: https://www.modernfinance.xyz
 google_analytics_id: UA-71078506-1
+
+collections:
+  definitions:
+    output: true
+    permalink: /definitions/:path/
+  tools:
+    output: true
+    permalink: /tools/:path/
