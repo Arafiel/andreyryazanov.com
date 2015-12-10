@@ -1,0 +1,18 @@
+---
+layout: blog
+---
+
+<article>
+  <h2>
+    {{ page.title }}
+  </h2>
+  <span>
+    <span>
+      {{ page.categories | array_to_sentence_string }}
+    </span>
+  </span>
+      {{ page.date | date_to_string }}
+  <div>
+    {{ content }}
+  </div>
+</article>

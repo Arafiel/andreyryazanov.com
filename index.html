@@ -4,4 +4,6 @@ title: Andrey Ryazanov is a product manager, technologist and entrepreneur livin
 overview: true
 ---
 
-Hello World
+{% for post in site.posts %}
+  {% include blog_article.html %}
+{% endfor %}
