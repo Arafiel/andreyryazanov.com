@@ -1,4 +1,4 @@
-include: .htaccess
+include: [.htaccess]
 timezone: America/New_York
 url: https://www.andreyryazanov.com
 google_analytics_id: UA-29664358-1

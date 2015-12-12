@@ -3,16 +3,11 @@ layout: blog
 ---
 
 <article class="blogArticle">
-  <h2>
+  <div class="headerImage" style="background-image: url(/img/{{ page.headerImage }});"></div>
+  <h2 class="post_blogTitle">
     {{ page.title }}
   </h2>
-  <span>
-    <span>
-      {{ page.categories | array_to_sentence_string }}
-    </span>
-  </span>
-      {{ page.date | date_to_string }}
-  <div>
+  <div class="blogBody paragraph">
     {{ content }}
   </div>
 </article>
