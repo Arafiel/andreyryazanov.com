@@ -1,5 +1,5 @@
 <div class="nav">
-  <div class="nav_option">Home</div>
-  <div class="nav_option">About</div>
-  <div class="nav_option">Contact</div>
+  <a class="{% if page.homepage %}current{% endif %}" href="/"><div class="nav_option">Home</div></a>
+  <a class="{% if page.about %}current{% endif %}" href="/about"><div class="nav_option">About</div></a>
+  <a class="{% if page.contact %}current{% endif %}" href="/contact"><div class="nav_option">Contact</div></a>
 </div>

@@ -10,6 +10,9 @@ img {
   padding: 0;
   margin: 0; }
 
+p {
+  padding: 10px 0; }
+
 header {
   padding-bottom: 10px; }
 
@@ -21,14 +24,16 @@ h2 {
   padding-bottom: 2px; }
 
 body {
-  margin: 0; }
+  margin: 0;
+  overflow-wrap: break-word;
+  word-wrap: break-word; }
 
 footer {
   padding: 0 10px; }
 
 .paragraph {
   padding: 0 10px;
-  line-height: 1.3; }
+  line-height: 1.4; }
 
 .logo {
   width: 90%;
@@ -44,7 +49,8 @@ footer {
 
 .home_blogTitle {
   text-align: center;
-  font-size: 18px; }
+  font-size: 18px;
+  padding: 10px 0; }
 
 .headerImage {
   width: 100%;
@@ -60,4 +66,19 @@ footer {
 .post_blogTitle {
   text-align: center;
   font-size: 18px;
-  padding: 10px 0; }
+  padding: 10px 0;
+  color: #9B1B3C; }
+
+.current {
+  color: #000000;
+  font-weight: bolder; }
+
+.tags {
+  padding-bottom: 10px; }
+
+.singleTag {
+  display: inline-block;
+  background: #000000;
+  color: #F2668E;
+  padding: 6px;
+  border-radius: 10px; }
