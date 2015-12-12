@@ -3,13 +3,34 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Roboto", sans-serif, Arial;
+  font-family: "Open Sans", sans-serif, Arial;
 }
 .clear {
   clear: both;
 }
+img {
+  padding: 0;
+  margin: 0;
+}
+header {
+  padding-bottom: 10px;
+}
+a {
+  text-decoration: none;
+  color: #9B1B3C;
+}
+h2 {
+  padding-bottom: 2px;
+}
 body {
   margin: 0;
+}
+footer {
+  padding: 0 10px;
+}
+.paragraph {
+  padding: 0 10px;
+  line-height: 1.3;
 }
 .logo {
   width: 90%;
@@ -17,4 +38,19 @@ body {
 }
 .nav_option {
   display: inline-block;
+  width: 32%;
+  text-align: center;
+}
+.home_blogArticle {
+  padding-bottom: 10px;
+}
+.home_blogTitle {
+  text-align: center;
+  font-size: 18px;
+}
+.headerImage {
+  width: 100%;
+  height: 45vw;
+  background-size: cover;
+  background-position: center bottom
 }

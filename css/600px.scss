@@ -1,0 +1,33 @@
+---
+---
+
+@media only screen and (min-width: 600px) {
+  .logo {
+    width: 40%;
+    margin: 10px 0 0 10px;
+    position: relative;
+    float: left;
+  }
+  nav {
+    width: 58%;
+    float: left;
+    position: relative;
+    padding-top: 5%;
+  }
+  .nav_option {
+    font-size: 24px;
+  }
+  .home_blogTitle {
+    font-size: 22px;
+  }
+  .paragraph {
+    font-size: 18px;
+    padding: 0 15px;
+  }
+  .headerClear {
+    padding-bottom: 20px;
+  }
+  .headerImage {
+    height: 30vw;
+  }
+}

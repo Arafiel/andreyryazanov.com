@@ -1,0 +1,27 @@
+---
+---
+
+@media only screen and (min-width: 1200px) {
+  nav {
+    padding-top: 4.5%;
+  }
+  h2 {
+    padding: 15px 0;
+  }
+  .home_blogArticle {
+    padding-bottom: 20px;
+  }
+  .nav_option {
+    font-size: 30px;
+  }
+  .home_blogTitle {
+    font-size: 28px;
+  }
+  .paragraph {
+    font-size: 20px;
+    padding: 0 20px;
+  }
+  .headerImage {
+    width: 100%;
+  }
+}

@@ -1,21 +1,12 @@
-<article>
-  <h2>
+<article class="home_blogArticle">
+  <div class="headerImage" style="background-image: url(/img/{{ post.headerImage }});"></div>
+  <h2 class="home_blogTitle">
     <a href="{{ post.url }}">
       {{ post.title }}
     </a>
   </h2>
-  <span>
-    <span>
-      {{ post.categories | array_to_sentence_string }}
-    </span>
-  </span>
-  <div>
-    <span>
-      {{ post.date | date_to_string }}
-    </span>
-    <span>{{ post.author }}</span>
-  </div>
-  <div>
-    {{ post.content }}
+  <div class="paragraph">
+    {{ post.excerpt }}
   </div>
 </article>
+<div class="clear"></div>
