@@ -6,9 +6,12 @@ contact: yes
 ---
 
 <div class="contact">
-  <form method="POST" action="http://formspree.io/andrey@andreyryazanov.com">
-    <input type="email" name="_replyto">
-    <textarea name="body"></textarea>
-    <input type="submit" value="Send">
+  <div class="paragraph contact_header">Please contact me by filling out your email and message below.</div>
+  <form class="paragraph" method="POST" action="http://formspree.io/andrey@andreyryazanov.com">
+    <input class="contact_email" type="email" name="_replyto" placeholder="your@email.com">
+    <br>
+    <textarea class="contact_body" name="body" placeholder="Please type the message you wish to send me here."></textarea>
+    <br>
+    <input class="contact_submit" type="submit" value="Send">
   </form>
 </div>
