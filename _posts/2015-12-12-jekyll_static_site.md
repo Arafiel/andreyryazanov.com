@@ -4,7 +4,7 @@ title: "Creating Static Sites with Jekyll"
 author: Andrey
 headerImage: jekyll.jpg
 tags: [jekyll, static site, angularJS]
-permalink: "blog/:title"
+permalink: blog/:title
 ---
 
 I went to a meetup called {{static is}} the new dynamic recently hosted at  [WorkMarket](https://www.workmarket.com "WorkMarket") in NYC this past week which has inspired me to learn more about static website generators as alternatives to standard CMS.  The two in particular which caught my eye were [Hugo](https://gohugo.io/ "Hugo") and [Jekyll](http://jekyllrb.com "Jekyll").  If I’d gone to this meetup a week or two earlier, chances are I would have gone with the newer option offered by Hugo based on the fact that it’s a more recent addition to the ecosystem and because it’s written in Go rather than Jekyll’s Ruby (which I don’t particularly like dealing with).
