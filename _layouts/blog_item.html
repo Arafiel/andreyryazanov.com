@@ -7,6 +7,9 @@ layout: blog
   <h2 class="post_blogTitle">
     {{ page.title }}
   </h2>
+  <div class="home_underTitle">
+    <div class="home_date">{{ page.date | date_to_string }}</div>
+  </div>
   <div class="blogBody paragraph">
     {{ content }}
   </div>

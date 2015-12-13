@@ -9,6 +9,12 @@
   h2 {
     padding: 15px 0;
   }
+  ul {
+    padding-left: 25px;
+  }
+  ol {
+    padding-left: 30px;
+  }
   .home_blogArticle {
     padding-bottom: 20px;
   }
@@ -16,6 +22,9 @@
     font-size: 22px;
   }
   .home_blogTitle {
+    font-size: 28px;
+  }
+  .post_blogTitle {
     font-size: 28px;
   }
   .home_underTitle {

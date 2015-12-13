@@ -27,6 +27,12 @@ a {
 h2 {
   padding-bottom: 2px; }
 
+ul {
+  padding-left: 20px; }
+
+ol {
+  padding-left: 25px; }
+
 body {
   margin: 0;
   overflow-wrap: break-word;

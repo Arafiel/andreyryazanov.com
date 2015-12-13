@@ -20,6 +20,12 @@
     position: relative;
     padding-top: 5%;
   }
+  ul {
+    padding-left: 20px;
+  }
+  ol {
+    padding-left: 25px;
+  }
   .nav_option {
     font-size: 24px;
   }
@@ -32,9 +38,6 @@
   .paragraph {
     font-size: 18px;
     padding: 0 15px;
-  }
-  .headerClear {
-    padding-bottom: 20px;
   }
   .headerImage {
     height: 30vw;

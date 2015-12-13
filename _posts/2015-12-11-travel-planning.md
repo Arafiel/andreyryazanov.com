@@ -13,25 +13,24 @@ tags: [travel]
 <p>This seems pretty obvious, but it’s also the first step in planning a proper vacation.  At this point you don’t need an itinerary…you don’t even need a specific place.  For example, my upcoming vacation started off as, “We want to go to Southeast Asia this summer” and went from there.</p>
 <u>2.  Do some research</u>
 <p>You picked a destination, great!  Now the tricky part - do you have a set time when you have to book your vacation?  Some parts of the world aren’t ideal for visiting at certain times of the year.</p> <p>Example:  Southeast Asia in the summer - it’s very hot, humid, and rains almost every day.</p>
-<p>But wait, didn’t you just say that you’re going to Southeast Asia this summer?  Well, yes - for two reasons.
-<ol>
-<li>There WAS a set time period we had to go as one of our group members is a teacher and only has vacation time in the summers.</li>
-<li>While conditions aren’t ideal, this also means that it’s the off-season for tourism there, resulting less tourists crowding sites and cheaper accommodations/air travel fares.</li>
-</ol>
-</p>
-<u>3.  Where else?</u>
+<p>But wait, didn’t you just say that you’re going to Southeast Asia this summer?  Well, yes - for two reasons.</p>
+
+1. There WAS a set time period we had to go as one of our group members is a teacher and only has vacation time in the summers.
+2. While conditions aren’t ideal, this also means that it’s the off-season for tourism there, resulting less tourists crowding sites and cheaper accommodations/air travel fares.
+3.  Where else?
+
 <p>If you’re going to to a far-off place and have some time to spare, it’s often worthwhile to go to more than one place.  I find that it’s usually good to plan 1 week per country if you have 2-3 weeks to play with, or 2-3 days per city/location otherwise.</p>
-<p>Real life itinerary for my upcoming vacation:
-<ul>
-<li>4 days in Hanoi, Vietnam</li>
-<li>2 days in Sa Pa, Vietnam</li>
-<li>2 days in Bangkok, Thailand</li>
-<li>3 days in Siem Reap, Cambodia</li>
-<li>3 days in Rai Lay, Thailand</li>
-<li>5 days in Chiang Mai, Thailand</li>
-<li>1 day in Bangkok, Thailand, Thailand (encore before departure)</li>
-</ul>
-</p>
+<p>Real life itinerary for my upcoming vacation:</p>
+
+* 4 days in Hanoi, Vietnam
+* 2 days in Sa Pa, Vietnam
+* 2 days in Bangkok, Thailand
+* 3 days in Siem Reap, Cambodia
+* 3 days in Rai Lay, Thailand
+* 5 days in Chiang Mai, Thailand
+* 1 day in Bangkok, Thailand, Thailand (encore before departure)
+
+
 <u>4.  Book your to/from flights</u>
 <p>Once you’ve settled on a time period and a start/end location, book your flights!  Typical it’s best to book on a Tuesday at least a couple of months in advance if you can manage it.  I’ll write a specific article on flight booking later on.  <br /><br /><b>Please note</b>:  At this point in time you don’t need a solid itinerary at your destination yet, nor do you need hotels or transportation within the countries - though you should do some basic research to make sure your start and end locations are feasible.</p>
 <u>5.  So…where are you going?</u>
