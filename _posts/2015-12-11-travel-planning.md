@@ -4,7 +4,6 @@ title: "Trip Planning"
 author: Andrey
 headerImage: travel_planning.jpg
 tags: [travel]
-permalink: blog/:title
 ---
 
 <p>Many people struggle with planning vacations that don’t revolve around a cruise, all-inclusive resort, or a pre-made itinerary and tour group.  I’m here to tell you that none of these are necessary.  In fact, all booking your vacation through any of those options will do is cheapen your experience and give you a ‘tourist’ view of whatever country you’re visiting.</p>
