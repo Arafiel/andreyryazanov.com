@@ -8,6 +8,12 @@
     position: relative;
     float: left;
   }
+  header::after {
+    content: " ";
+    display: block;
+    height: 0;
+    clear: both;
+  }
   nav {
     width: 58%;
     float: right;
@@ -20,6 +26,9 @@
   .home_blogTitle {
     font-size: 22px;
   }
+  .home_underTitle {
+    padding: 0 15px;
+  }
   .paragraph {
     font-size: 18px;
     padding: 0 15px;
@@ -29,5 +38,8 @@
   }
   .headerImage {
     height: 30vw;
+  }
+  .tags {
+    padding-bottom: 15px;
   }
 }

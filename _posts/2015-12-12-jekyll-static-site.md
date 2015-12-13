@@ -2,7 +2,7 @@
 layout: blog_item
 title: "Creating Static Sites with Jekyll"
 author: Andrey
-headerImage: jekyll.jpg
+headerImage: jekyll.png
 tags: [jekyll, static site, angularJS]
 ---
 

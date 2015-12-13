@@ -4,6 +4,7 @@
 @media only screen and (min-width: 1200px) {
   nav {
     padding-top: 4.5%;
+    width: 30%;
   }
   h2 {
     padding: 15px 0;
@@ -12,10 +13,13 @@
     padding-bottom: 20px;
   }
   .nav_option {
-    font-size: 30px;
+    font-size: 22px;
   }
   .home_blogTitle {
     font-size: 28px;
+  }
+  .home_underTitle {
+    padding: 0 20px;
   }
   .paragraph {
     font-size: 20px;
@@ -23,5 +27,8 @@
   }
   .headerImage {
     width: 100%;
+  }
+  .tags {
+    padding-bottom: 20px;
   }
 }

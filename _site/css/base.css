@@ -1,8 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Open Sans", sans-serif, Arial;
-  background-color: #FFFFFD; }
+  font-family: "Open Sans", sans-serif, Arial; }
 
 .clear {
   clear: both; }
@@ -15,7 +14,11 @@ p {
   padding: 10px 0; }
 
 header {
-  padding-bottom: 10px; }
+  padding-bottom: 10px;
+  background-color: #FFFFFD;
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid #EEEEEE; }
 
 a {
   text-decoration: none;
@@ -27,10 +30,22 @@ h2 {
 body {
   margin: 0;
   overflow-wrap: break-word;
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  background-color: #F5F6F6;
+  font-weight: lighter;
+  color: #525252; }
 
 footer {
-  padding: 0 10px; }
+  padding: 10px;
+  width: 90%;
+  margin: 0 auto; }
+
+article {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid #EEEEEE;
+  background-color: #FFFFFD;
+  margin-top: 20px; }
 
 .paragraph {
   padding: 0 10px;
@@ -51,7 +66,14 @@ footer {
 .home_blogTitle {
   text-align: center;
   font-size: 18px;
-  padding: 10px 0; }
+  padding: 10px; }
+
+.home_underTitle {
+  padding: 0 10px;
+  margin: 0 auto; }
+
+.home_date {
+  color: #9a9a9a; }
 
 .headerImage {
   width: 100%;
@@ -67,7 +89,7 @@ footer {
 .post_blogTitle {
   text-align: center;
   font-size: 18px;
-  padding: 10px 0;
+  padding: 10px;
   color: #9B1B3C; }
 
 .current {
@@ -75,7 +97,7 @@ footer {
   font-weight: bolder; }
 
 .tags {
-  padding-bottom: 10px; }
+  padding-bottom: 20px; }
 
 .singleTag {
   display: inline-block;

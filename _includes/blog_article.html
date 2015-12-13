@@ -5,6 +5,9 @@
       {{ post.title }}
     </a>
   </h2>
+  <div class="home_underTitle">
+    <div class="home_date">{{ post.date | date_to_string }}</div>
+  </div>
   <div class="paragraph">
     {{ post.excerpt }}
   </div>
