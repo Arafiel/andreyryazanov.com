@@ -111,3 +111,25 @@ article {
   color: #F2668E;
   padding: 6px 12px;
   border-radius: 10px; }
+
+.about {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid #EEEEEE;
+  background-color: #FFFFFD;
+  margin-top: 20px; }
+
+.contact {
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid #EEEEEE;
+  background-color: #FFFFFD;
+  margin-top: 20px; }
+
+.experience {
+  color: #9B1B3C;
+  font-weight: bolder; }
+
+.job {
+  padding-left: 20px;
+  padding-bottom: 10px; }
