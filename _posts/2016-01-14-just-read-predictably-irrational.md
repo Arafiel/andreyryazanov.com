@@ -2,7 +2,7 @@
 layout: blog_item
 title: "Just Read, “Predictably Irrational” by Dan Ariely"
 author: Andrey
-headerImage: andrey-ryazanov-3.jpg
+headerImage: predictably-irrational.jpg
 tags: [reading, product, non-fiction]
 description: "The third rebuild of my personal website is now live.  There's still work to be done, but it's good enough for a general release."
 ---
