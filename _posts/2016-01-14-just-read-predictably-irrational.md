@@ -4,7 +4,7 @@ title: "Just Read, “Predictably Irrational” by Dan Ariely"
 author: Andrey
 headerImage: predictably-irrational.jpg
 tags: [reading, product, non-fiction]
-description: "The third rebuild of my personal website is now live.  There's still work to be done, but it's good enough for a general release."
+description: "Summary and review of Predictably Irrational by Dan Ariely from a product design standpoint."
 ---
 
 Starting this year, I will be making an effort to catalogue all of my non-fiction book consumption in a standardized format in order to better codify my thoughts on the various books that I read, as well as create a written reminder of my key takeaways from certain books immediately after completing them.
